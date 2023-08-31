@@ -5,7 +5,7 @@ This is a simple alarm clock implemented in Python that plays a sound when the s
 ## How to Use
 
 1. Clone the repository:
-   https://github.com/Livinston-Bran/alarm-clock.py
+   [Alarm Clock](https://github.com/Livinston-Bran/alarm-clock/blob/main/alarm-clock.py)
 2. Navigate to the project directory:
 3. Run the script:
 4. Enter the alarm time in HH:MM:SS format when prompted.
